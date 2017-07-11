@@ -81,10 +81,11 @@ namespace expression_members
         static void Main(string[] args)
         {
             //Console.WriteLine("Hello World!");
-            Bug bug1 = new Bug("spider", "spider species", new List<string>(){"birds,frogs"},new List<string>(){"fly"});
-            Bug bug2 = new Bug("lizard", "lizard species", new List<string>(){"cat"},new List<string>(){"fly,ant"});
-            string bug2food = bug2.PreyList();
-            Console.WriteLine(bug2.Eat(bug2food));
+
+            Bug bug1 = new Bug("spider", "spider species", new List<string>(){"birds,frogs"}, new List<string>(){"fly"});
+            Bug bug2 = new Bug("lizard", "lizard species", new List<string>(){"cat"}, new List<string>(){"fly"});
+            //string bug2food = bug2.PreyList();
+            Console.WriteLine(bug2.Eat("fly"));
             Console.WriteLine(bug1.PredatorList());
             Console.WriteLine(bug1.PreyList());
             Console.WriteLine(bug1.FormalName);
