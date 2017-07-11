@@ -1,0 +1,8 @@
+/Users/jaisina/workspace/csharp/exercises/expression-members/bin/Debug/netcoreapp1.1/expression-members.deps.json
+/Users/jaisina/workspace/csharp/exercises/expression-members/bin/Debug/netcoreapp1.1/expression-members.runtimeconfig.json
+/Users/jaisina/workspace/csharp/exercises/expression-members/bin/Debug/netcoreapp1.1/expression-members.runtimeconfig.dev.json
+/Users/jaisina/workspace/csharp/exercises/expression-members/obj/Debug/netcoreapp1.1/expression-members.AssemblyInfo.cs
+/Users/jaisina/workspace/csharp/exercises/expression-members/bin/Debug/netcoreapp1.1/expression-members.dll
+/Users/jaisina/workspace/csharp/exercises/expression-members/bin/Debug/netcoreapp1.1/expression-members.pdb
+/Users/jaisina/workspace/csharp/exercises/expression-members/obj/Debug/netcoreapp1.1/expression-members.dll
+/Users/jaisina/workspace/csharp/exercises/expression-members/obj/Debug/netcoreapp1.1/expression-members.pdb
